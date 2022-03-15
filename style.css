@@ -54,6 +54,13 @@ ul, a{
     font-weight: 500;
     
 }
+
+.logo img{
+    width: 98px;
+    height: 80px;
+    
+}
+
 .section-two{
     display: flex;
     justify-content: space-evenly;
